@@ -19,6 +19,6 @@
 ![css](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FCC624)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vrfortes&rank_icon=percentile&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=vrfortes&rank_icon=percentile&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vrfortes&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=vrfortes&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
 
 </div>
