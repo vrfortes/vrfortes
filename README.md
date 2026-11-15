@@ -12,6 +12,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![helium browser](https://img.shields.io/badge/helium%20browser-0D1C64?style=for-the-badge&logo=helium-browser&logoColor=white)
 ![zed industries](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed-industries&logoColor=white)
+![pi](https://img.shields.io/badge/pi-000000?style=for-the-badge&logo=pi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![ollama](https://img.shields.io/badge/Ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=black)
