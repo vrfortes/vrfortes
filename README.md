@@ -19,6 +19,7 @@
 ![qwen](https://img.shields.io/badge/qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![htmx](https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
